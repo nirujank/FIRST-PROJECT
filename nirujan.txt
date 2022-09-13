@@ -1,8 +1,3 @@
 Hello nirujan this is a sample
-<<<<<<< Updated upstream
 edit on remote
-=======
-
 local edit
->>>>>>> Stashed changes
-g
